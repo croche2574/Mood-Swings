@@ -1,0 +1,1891 @@
+[
+{
+  "card_name": "Hurt Feelings",
+  "color": "Black",
+  "rarity": "Helper",
+  "card_effect": "(In a 3+ player game, at the end of each round, the player with the lowest score this round gets Hurt Feelings for the next round. If there’s a tie, whoever took a turn latest this round wins the tie.) This round, you may play an additional mood during your turn.",
+  "artist": "Mike Dringenberg",
+  "edition": null,
+  "card_number": null,
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": null,
+  "secondary_value": null,
+  "image_path": "hurt_feelings.webp"
+},
+
+{
+  "card_name": "SHOCK",
+  "color": "Red",
+  "rarity": "COMMON",
+  "card_effect": "After playing this mood — Choose up to two players. For each chosen player, put one of their moods with a value of 3 or less into the discard pile.",
+  "artist": "Jon Foster",
+  "edition": 1,
+  "card_number": "0101",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "shock.webp"
+},
+
+{
+  "card_name": "NOSTALGIA",
+  "color": "Green",
+  "rarity": "COMMON",
+  "card_effect": "After playing this mood — You may put a card from the discard pile into your hand. You may play an additional mood this turn.",
+  "artist": "ZOLIAN BOROS & GABOR SZIKSZAI",
+  "edition": 1,
+  "card_number": "0128",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "nostalgia.webp"
+},
+
+{
+  "card_name": "COMPULSION",
+  "color": "Red",
+  "rarity": "COMMON",
+  "card_effect": "After playing this mood — Choose another player. That player chooses a card from their hand and gives it to you.",
+  "artist": "JESPER EJSING",
+  "edition": 1,
+  "card_number": "0086",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": null,
+  "image_path": "compulsion.webp"
+},
+
+{
+  "card_name": "EMBARRASSMENT",
+  "color": "Red",
+  "rarity": "COMMON",
+  "card_effect": "After playing this mood — You may discard a card from your hand with a 4, 5, or 6 in its top right corner. If you do, this mood’s value becomes 5.",
+  "artist": "GABOLEPS",
+  "edition": 1,
+  "card_number": "0087",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 5,
+  "image_path": "embarrassment.webp"
+},
+
+{
+  "card_name": "BLISS",
+  "color": "Green",
+  "rarity": "MYTHIC",
+  "card_effect": "To play this card — Discard a card from your hand. (If you can’t do that, you can’t play this card.) While in play — Score each of your moods that share a color with the discarded card two extra times.",
+  "artist": "Iris Complet",
+  "edition": 1,
+  "card_number": "0108",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "bliss.webp"
+},
+
+{
+  "card_name": "Determination",
+  "color": "Green",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood's value is 6 if there are three or more moods that share a color. (Moods are cards in play.)",
+  "artist": "Arif Wiaya",
+  "edition": "1",
+  "card_number": "0112",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 6,
+  "image_path": "determination.webp"
+},
+
+{
+  "card_name": "Stubbornness",
+  "color": "Red",
+  "rarity": "Rare",
+  "card_effect": "While in play — At the start of each of your turns, if another player has more moods than you, you may play an additional mood this turn. (Moods are cards in play.)",
+  "artist": "Joe Slucher",
+  "edition": "1",
+  "card_number": "0102",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": null,
+  "image_path": "stubbornness.webp"
+},
+
+{
+  "card_name": "Infatuation",
+  "color": "Red",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may put two of your other moods into the discard pile (moods are cards in play). If you do, this mood’s value becomes 9.",
+  "artist": "Omar Rayyan",
+  "edition": "1",
+  "card_number": "0095",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 9,
+  "image_path": "infatuation.webp"
+},
+
+{
+  "card_name": "Wonder",
+  "color": "Green",
+  "rarity": "Mythic",
+  "card_effect": "After playing this mood — Choose a color.\n\nWhile in play — This mood’s value increases by ☢ for each mood of the chosen color and each card in the discard pile of the chosen color.",
+  "artist": "Eli Minaya",
+  "edition": "1",
+  "card_number": "0133",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "wonder.webp"
+},
+
+{
+  "card_name": "Fondness",
+  "color": "Green",
+  "rarity": "Uncommon",
+  "card_effect": "While in play — This mood’s value is 7 if each player has three or more moods. (Moods are cards in play.)",
+  "artist": "Scott Murphy",
+  "edition": "1",
+  "card_number": "0119",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": 7,
+  "image_path": "fondness.webp"
+},
+
+{
+  "card_name": "Fascination",
+  "color": "Green",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may reveal a blue or black card from your hand and give it to another player. If you do, this mood’s value becomes 7.",
+  "artist": "Matt Dixon",
+  "edition": "1",
+  "card_number": "0118",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 7,
+  "image_path": "fascination.webp"
+},
+
+{
+  "card_name": "Passion",
+  "color": "Red",
+  "rarity": "Rare",
+  "card_effect": "While in play — While scoring, you may score one of your opponents’ moods as though it were yours. (They also still score it.)",
+  "artist": "Jim Murray",
+  "edition": "1",
+  "card_number": "0097",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "passion.webp"
+},
+
+{
+  "card_name": "Glee",
+  "color": "Red",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 6 if you played it this round.",
+  "artist": "Jesper Eising",
+  "edition": "Edition 1",
+  "card_number": "0092",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": 6,
+  "image_path": "glee.webp"
+},
+
+{
+  "card_name": "Generosity",
+  "color": "Green",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — Choose an opponent. They may play an additional mood on their next turn.",
+  "artist": "Wisnu Tan",
+  "edition": "Edition 1",
+  "card_number": "0120",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 6,
+  "secondary_value": null,
+  "image_path": "generosity.webp"
+},
+
+{
+  "card_name": "Rage",
+  "color": "Red",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may put all other moods with a value of 3 or less into the discard pile.",
+  "artist": "Matt Cavotta",
+  "edition": "Edition 1",
+  "card_number": "0098",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "rage.webp"
+},
+
+{
+  "card_name": "Cheer",
+  "color": "Green",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may discard a card from your hand with a 0, 2, 4, or 6 in its top right corner. If you do, this mood’s value becomes 5.",
+  "artist": "April Prime",
+  "edition": "Edition 1",
+  "card_number": "0110",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 5,
+  "image_path": "cheer.webp"
+},
+
+{
+  "card_name": "Celebration",
+  "color": "Green",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 7 if there are more colors among your moods than among each other player’s moods.",
+  "artist": "Joshua Cairos",
+  "edition": "Edition 1",
+  "card_number": "0109",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 7,
+  "image_path": "celebration.webp"
+},
+
+{
+  "card_name": "Grace",
+  "color": "Green",
+  "rarity": "Rare",
+  "card_effect": "While in play — During each of your turns (including the turn you play this mood), you may play an additional mood from the discard pile if it shares a color with one of your moods.",
+  "artist": "Miliyoi Cérán",
+  "edition": "Edition 1",
+  "card_number": "0121",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "grace.webp"
+},
+
+{
+  "card_name": "Euphoria",
+  "color": "Green",
+  "rarity": "Rare",
+  "card_effect": "While in play — This mood’s value increases by 1 for each mood (including itself and other players’ moods).",
+  "artist": "David Sladek",
+  "edition": "Edition 1",
+  "card_number": "0117",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "euphoria.webp"
+},
+
+{
+  "card_name": "Excitement",
+  "color": "Red",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood's value is 6 if there are two or more black and/or green moods.",
+  "artist": "Zoltan Boros",
+  "edition": "1",
+  "card_number": "0088",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "excitement.webp",
+  "main_value": 3,
+  "secondary_value": 6
+},
+
+{
+  "card_name": "Happiness",
+  "color": "Green",
+  "rarity": "Uncommon",
+  "card_effect": "While in play — This mood's value is 8 if a player has both a red mood and a white mood.",
+  "artist": "Steve Prescott",
+  "edition": "1",
+  "card_number": "0122",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "happiness.webp",
+  "main_value": 2,
+  "secondary_value": 8
+},
+
+{
+  "card_name": "Love",
+  "color": "Green",
+  "rarity": "Headliner",
+  "card_effect": "While in play — This mood's value is 12 if there's a white mood, a blue mood, a black mood, a red mood, and a green mood (including this one).",
+  "artist": "Mark Rosewater",
+  "edition": "1",
+  "card_number": "0134",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "love-headliner.webp",
+  "main_value": 4,
+  "secondary_value": 12
+},
+
+{
+  "card_name": "Hope",
+  "color": "Green",
+  "rarity": "Rare",
+  "card_effect": "While in play — You may play an additional mood during each of your turns (including the turn you play this mood).",
+  "artist": "Jason Chan",
+  "edition": "1",
+  "card_number": "0124",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "hope.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Awe",
+  "color": "Green",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — There is no scoring this round. No one wins or loses this round. You choose which player goes first next round. (This round, no one will draw a card or get Hurt Feelings, and “after scoring” effects won’t happen.)",
+  "artist": "Chris Rahn",
+  "edition": "1",
+  "card_number": "0107",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "awe.webp",
+  "main_value": 4,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Disregard",
+  "color": "Green",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 3 if there are two or more blue and/or black moods.",
+  "artist": "Kai Carpenter",
+  "edition": "Edition 1",
+  "card_number": "0113",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 6,
+  "secondary_value": 3,
+  "image_path": "disregard.webp"
+},
+
+{
+  "card_name": "Fury",
+  "color": "Red",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — Each player chooses one of their highest value moods and puts it into the discard pile.",
+  "artist": "Key Walker",
+  "edition": "Edition 1",
+  "card_number": "0091",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 4,
+  "secondary_value": null,
+  "image_path": "fury.webp"
+},
+
+{
+  "card_name": "Instability",
+  "color": "Red",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may choose two moods from the same opponent. If you do, they choose one of those moods and gives it to you, then you give them one of your moods.",
+  "artist": "Caio Monteiro",
+  "edition": "Edition 1",
+  "card_number": "0096",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "instability.webp"
+},
+
+{
+  "card_name": "Eagerness",
+  "color": "Green",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may play an additional mood this turn if it shares a color with one of your moods.",
+  "artist": "Boria Pindado",
+  "edition": "Edition 1",
+  "card_number": "0114",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "eagerness.webp"
+},
+
+{
+  "card_name": "Thrill",
+  "color": "Red",
+  "rarity": "Mythic",
+  "card_effect": "After playing this mood — You may put any number of your other moods into your hand. If you do, you may play that many additional moods this turn.",
+  "artist": "Slawomir Maniak",
+  "edition": "Edition 1",
+  "card_number": "0103",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 1,
+  "secondary_value": null,
+  "image_path": "thrill.webp"
+},
+
+{
+  "card_name": "Recklessness",
+  "color": "Red",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may take one of your opponents’ moods. If you do, after scoring, give the mood you took back to them (if you still have it). While in play — After scoring, put this mood on the bottom of the deck and draw a card.",
+  "artist": "Adi Granov",
+  "edition": "Edition 1",
+  "card_number": "0100",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "recklessness.webp"
+},
+
+{
+  "card_name": "Sloth",
+  "color": "Green",
+  "rarity": "Rare",
+  "card_effect": "While in play — This mood’s value increases by 1 for each card in your hand.",
+  "artist": "Darrell Riche",
+  "edition": "Edition 1",
+  "card_number": "0130",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": null,
+  "image_path": "sloth.webp"
+},
+
+{
+  "card_name": "Hostility",
+  "color": "Red",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may put one of your black or green moods into the discard pile. If you do, put up to two moods each with a value of 3 or less into the discard pile.",
+  "artist": "Wayne England",
+  "edition": "1",
+  "card_number": "0094",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "hostility.webp",
+  "main_value": 3,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Tranquility",
+  "color": "Green",
+  "rarity": "Uncommon",
+  "card_effect": "While in play — This mood’s value is 6 if you have an odd number of moods (including this one).",
+  "artist": "Ekaterina Burmak",
+  "edition": "1",
+  "card_number": "0131",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "tranquility.webp",
+  "main_value": 3,
+  "secondary_value": 6
+},
+
+{
+  "card_name": "Frustration",
+  "color": "Red",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 3 if there are two or more white and/or blue moods.",
+  "artist": "Wayne Reynolds",
+  "edition": "1",
+  "card_number": "0090",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "frustration.webp",
+  "main_value": 6,
+  "secondary_value": 3
+},
+
+{
+  "card_name": "Laziness",
+  "color": "Green",
+  "rarity": "Common",
+  "card_effect": null,
+  "artist": "Fajareka Setiawan",
+  "edition": "1",
+  "card_number": "0126",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "laziness.webp",
+  "main_value": 4,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Joy",
+  "color": "Green",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may play an additional mood on your next turn.",
+  "artist": "Rhonda Libbey",
+  "edition": "1",
+  "card_number": "0125",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "joy.webp",
+  "main_value": 3,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Enthusiasm",
+  "color": "Green",
+  "rarity": "Uncommon",
+  "card_effect": "While in play — While scoring, you may score one of your moods an extra time.",
+  "artist": "Aaron J. Riley",
+  "edition": "1",
+  "card_number": "0116",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "enthusiasm.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Chaos",
+  "color": "Red",
+  "rarity": "Mythic",
+  "card_effect": "After playing this mood — Shuffle all moods together. Starting with you and going in turn order, deal those moods out one at a time to each player. (Moods may change players but “After playing this mood” effects won’t happen again.)",
+  "artist": "Luca Zontini",
+  "edition": "1",
+  "card_number": "0085",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "chaos.webp",
+  "main_value": 6,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Exhilaration",
+  "color": "Red",
+  "rarity": 0,
+  "card_effect": "To play this card — Put one of your moods into the discard pile. (If you can't do that, you can't play this card. Moods are cards in play.) While in play — Score your moods an extra time.",
+  "artist": "Dave Greco",
+  "edition": "1",
+  "card_number": "0089",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "exhilaration.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Serenity",
+  "color": "Green",
+  "rarity": "Uncommon",
+  "card_effect": "While in play — This mood’s value is 6 if you have an even number of moods (including this one).",
+  "artist": "Caroline Gariba",
+  "edition": "1",
+  "card_number": "0129",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "serenity.webp",
+  "main_value": 3,
+  "secondary_value": 6
+},
+
+{
+  "card_name": "Love",
+  "color": "Green",
+  "rarity": "Mythic",
+  "card_effect": "While in play — This mood’s value is 12 if there’s a white mood, a blue mood, a black mood, a red mood, and a green mood (including this one).",
+  "artist": "Howard Lyon",
+  "edition": "1",
+  "card_number": "0127",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "love.webp",
+  "main_value": 4,
+  "secondary_value": 12
+},
+
+{
+  "card_name": "Zeal",
+  "color": "Red",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may put a card from your hand on the bottom of the deck. If you do, draw a card.",
+  "artist": "Volkan Baga",
+  "edition": "1",
+  "card_number": "0106",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "zeal.webp",
+  "main_value": 3,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Delight",
+  "color": "Green",
+  "rarity": "Common",
+  "card_effect": "After playing this mood —You may discard a card from your hand with a 1, 3, or 5 in its top right corner. If you do, this mood’s value becomes 3.",
+  "artist": "Johannes Voss",
+  "edition": "1",
+  "card_number": "0111",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "delight.webp",
+  "main_value": 3,
+  "secondary_value": 5
+},
+
+{
+  "card_name": "Gluttony",
+  "color": "Red",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may play an additional mood this turn. If you do, after scoring, put that mood into the discard pile (if it’s still in play).",
+  "artist": "Jim Nelson",
+  "edition": "1",
+  "card_number": "0093",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "gluttony.webp",
+  "main_value": 2,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Rebellion",
+  "color": "Red",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — Choose 0, 1, 2, or 3. Put all other moods with the chosen value into the discard pile.",
+  "artist": "Key Walker",
+  "edition": "1",
+  "card_number": "0099",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "rebellion.webp"
+},
+
+{
+  "card_name": "Enjoyment",
+  "color": "Green",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 6 if there are two or more red and/or white moods.",
+  "artist": "Julie Dillon",
+  "edition": "1",
+  "card_number": "0115",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 6,
+  "image_path": "enjoyment.webp"
+},
+
+{
+  "card_name": "Wrath",
+  "color": "Red",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may put all other moods into the discard pile.",
+  "artist": "Volkan Baga",
+  "edition": "1",
+  "card_number": "0105",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "wrath.webp"
+},
+
+{
+  "card_name": "Triumph",
+  "color": "Red",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 5 if you went first this round.",
+  "artist": "Wisnu Tan",
+  "edition": "1",
+  "card_number": "0104",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 5,
+  "image_path": "triumph.webp"
+},
+
+{
+  "card_name": "Vulnerability",
+  "color": "Green",
+  "rarity": "Rare",
+  "card_effect": "While in play — This mood’s value is 7 if a card was put into the discard pile this round.",
+  "artist": "Greg Staples",
+  "edition": "1",
+  "card_number": "0132",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 1,
+  "secondary_value": 7,
+  "image_path": "vulnerability.webp"
+},
+
+{
+  "card_name": "Harmony",
+  "color": "Green",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may play an additional mood this turn from the discard pile.",
+  "artist": "Chris Seaman",
+  "edition": "1",
+  "card_number": "0123",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "harmony.webp"
+},
+
+{
+  "card_name": "Bitterness",
+  "color": "Black",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — Calculate the most common color or colors among all moods. Put all other moods that share one of those colors into the discard pile.",
+  "artist": "Clint Cearley",
+  "edition": "1",
+  "card_number": "0057",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "bitterness.webp"
+},
+
+{
+  "card_name": "Obsession",
+  "color": "Blue",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 6 if there are two or more white and/or black moods.",
+  "artist": "Julie Dillon",
+  "edition": "1",
+  "card_number": "0047",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 6,
+  "image_path": "obsession.webp"
+},
+
+{
+  "card_name": "Angst",
+  "color": "Black",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may put one of your blue or red moods into the discard pile. If you do, you may play an additional mood this turn from the discard pile. (You can play the card you just put into the discard pile if you want.)",
+  "artist": "Brandon Dorman",
+  "edition": "1",
+  "card_number": "0054",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": null,
+  "image_path": "angst.webp"
+},
+
+{
+  "card_name": "Grief",
+  "color": "Black",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may play up to two additional moods this turn from the discard pile.",
+  "artist": "Julie Dillon",
+  "edition": "1",
+  "card_number": "0065",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "grief.webp"
+},
+
+{
+  "card_name": "Vanity",
+  "color": "Black",
+  "rarity": "Mythic",
+  "card_effect": "While in play — This mood’s value increases by 1 for each of your moods (including itself). If there are no cards in your hand, this mood’s value instead increases by 3 for each of your moods (including itself).",
+  "artist": "Kieran Yanner",
+  "edition": "1",
+  "card_number": "0079",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "vanity.webp"
+},
+
+{
+  "card_name": "Rationalization",
+  "color": "Blue",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may choose one:\n• Put your hand on the bottom of the deck, then draw that many cards.\n• Choose left or right. Simultaneously, each player gives their hand to the next player in the chosen direction.",
+  "artist": "Jeremy Jarvis",
+  "edition": "1",
+  "card_number": "0049",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": null,
+  "image_path": "rationalization.webp"
+},
+
+{
+  "card_name": "Insecurity",
+  "color": "Blue",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may play an additional mood this turn. If you do, after scoring, put that mood into your hand (if it’s still in play).",
+  "artist": "Jim Nelson",
+  "edition": "1",
+  "card_number": "0045",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "insecurity.webp"
+},
+
+{
+  "card_name": "Worry",
+  "color": "Blue",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may put one of your white or black moods into your hand. If you do, put up to two moods other than this one each with a value of 3 or less into their players’ hands.",
+  "artist": "Greg Staples",
+  "edition": "1",
+  "card_number": "0052",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": null,
+  "image_path": "worry.webp"
+},
+
+{
+  "card_name": "Sneakiness",
+  "color": "Blue",
+  "rarity": "Mythic",
+  "card_effect": "After playing this mood — Choose an opponent. This round, after scoring, swap your score with that player before determining who wins the round.",
+  "artist": "Anna Steinbauer",
+  "edition": "1",
+  "card_number": "0051",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 5,
+  "secondary_value": null,
+  "image_path": "sneakiness.webp"
+},
+
+{
+  "card_name": "Spite",
+  "color": "Black",
+  "rarity": null,
+  "card_effect": "After playing this mood — Choose up to two players. For each chosen player, put one of their moods with an even value into the discard pile. (0 is even.)",
+  "artist": "Wayne Reynolds",
+  "edition": "1",
+  "card_number": "0076",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 1,
+  "secondary_value": null,
+  "image_path": "spite.webp"
+},
+
+{
+  "card_name": "Hate",
+  "color": "Black",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may put any mood on the bottom of the deck. If you do, draw a card. (Moods are cards in play.)",
+  "artist": "Karl Kopinski",
+  "edition": "Edition 1",
+  "card_number": "0066",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "hate.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Melancholy",
+  "color": "Black",
+  "rarity": "Rare",
+  "card_effect": "While in play — You may play moods from the discard pile as though they were in your hand.",
+  "artist": "Rovina Cai",
+  "edition": "Edition 1",
+  "card_number": "0069",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "melancholy.webp",
+  "main_value": 3,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Suspicion",
+  "color": "Black",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — Choose any number of players. Each chosen player discards a card from their hand.",
+  "artist": "Matt Stewart",
+  "edition": "Edition 1",
+  "card_number": "0078",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "suspicion.webp",
+  "main_value": 3,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Boredom",
+  "color": "Red",
+  "rarity": "Common",
+  "card_effect": null,
+  "artist": "Svetlin Velinov",
+  "edition": "Edition 1",
+  "card_number": "0083",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "boredom.webp",
+  "main_value": 4,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Misery",
+  "color": "Black",
+  "rarity": "Uncommon",
+  "card_effect": "While in play — This mood’s value is 8 if there are two or more cards in the discard pile that share a color.",
+  "artist": "Pete Venters",
+  "edition": "Edition 1",
+  "card_number": "0070",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "misery.webp",
+  "main_value": 3,
+  "secondary_value": 8
+},
+
+{
+  "card_name": "Contempt",
+  "color": "Black",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may choose one: • Put a green or white mood into the discard pile. • Put all green and white moods into the discard pile.",
+  "artist": "Michael Ivan",
+  "edition": "Edition 1",
+  "card_number": "0059",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "contempt.webp",
+  "main_value": 1,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Animosity",
+  "color": "Red",
+  "rarity": "Uncommon",
+  "card_effect": "While in play — This mood’s value is 5 if any opponent has three or more cards in hand.",
+  "artist": "Zoltan Boros",
+  "edition": "Edition 1",
+  "card_number": "0081",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "animosity.webp",
+  "main_value": 3,
+  "secondary_value": 5
+},
+
+{
+  "card_name": "Paranoia",
+  "color": "Black",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may choose a player with one or more cards in their hand. If you do, that player reveals a random card from their hand and puts it on the bottom of the deck, then you draw a card.",
+  "artist": "Jana Heidersdorff",
+  "edition": "Edition 1",
+  "card_number": "0071",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "paranoia.webp",
+  "main_value": 2,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Intimidation",
+  "color": "Black",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may choose another player. If you do, that player reveals a card from their hand and puts it into your hand. You may play it as an additional mood this turn.",
+  "artist": "Thomas M. Baxa",
+  "edition": "Edition 1",
+  "card_number": "0067",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "intimidation.webp",
+  "main_value": 1,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Indifference",
+  "color": "Blue",
+  "rarity": "Common",
+  "card_effect": null,
+  "artist": "Anna Steinbauer",
+  "edition": "Edition 1",
+  "card_number": "0044",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "indifference.webp",
+  "main_value": 4,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Neurosis",
+  "color": "Blue",
+  "rarity": "Common",
+  "card_effect": "To play this card — Put one or more of your moods into your hand. (If you can’t do that, you can’t play this card.)",
+  "artist": "Irvín Rodríguez",
+  "edition": "Edition 1",
+  "card_number": "0046",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "neurosis.webp",
+  "main_value": 5,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Corruption",
+  "color": "Black",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may choose one: • Put up to two cards from the discard pile on the bottom of the deck, then draw that many cards. • The winner of the current round wins two rounds instead of one. (Each losing player still draws only one card.)",
+  "artist": "Yongjae Choi",
+  "edition": "Edition 1",
+  "card_number": "0060",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "corruption.webp",
+  "main_value": 2,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Disgust",
+  "color": "Black",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 3 if there are two or more green and/or white moods.",
+  "artist": "Lius Lasahido",
+  "edition": "Edition 1",
+  "card_number": "0063",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "disgust.webp",
+  "main_value": 6,
+  "secondary_value": 3
+},
+
+{
+  "card_name": "Rejection",
+  "color": "Black",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may choose two other moods. If the two chosen moods share a color or have the same value, put them into the discard pile.",
+  "artist": "Julia Metzger",
+  "edition": "Edition 1",
+  "card_number": "0073",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "rejection.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Self-Loathing",
+  "color": "Black",
+  "rarity": "Common",
+  "card_effect": "To play this card — Put one or more of your moods into the discard pile. (If you can't do that, you can't play this card. Moods are cards in play.)",
+  "artist": "Daarken",
+  "edition": "Edition 1",
+  "card_number": "0075",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "self-loathing.webp",
+  "main_value": 6,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Apathy",
+  "color": "Black",
+  "rarity": "Common",
+  "card_effect": null,
+  "artist": "Lars Grant-West",
+  "edition": "Edition 1",
+  "card_number": "0055",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "apathy.webp",
+  "main_value": 4,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Panic",
+  "color": "Blue",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — Choose up to two players. For each chosen player, put one of their moods into their hand. You can’t put this mood into your hand this way.",
+  "artist": "Jesper Eising",
+  "edition": "Edition 1",
+  "card_number": "0048",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "panic.webp",
+  "main_value": 1,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Cruelty",
+  "color": "Black",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — Choose any number of opponents who each have two or more moods. Each chosen opponent puts a random one of their moods into the discard pile. (Moods are cards in play.)",
+  "artist": "Ralph Horsley",
+  "edition": "Edition 1",
+  "card_number": "0061",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "cruelty.webp",
+  "main_value": 3,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Malice",
+  "color": "Black",
+  "rarity": "Mythic",
+  "card_effect": "After playing this mood — Choose any player who has two or more moods (moods are cards in play). That player chooses two of their moods. Put those moods and all other moods that share a color with either of them into the discard pile.",
+  "artist": "Matt Stewart",
+  "edition": "Edition 1",
+  "card_number": "0068",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "malice.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Indecisiveness",
+  "color": "Blue",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — Choose any number of opponents who each have two or more moods. Each chosen player puts a random one of their moods into their hand.",
+  "artist": "Setor Fiadzigbey",
+  "edition": "Edition 1",
+  "card_number": "0043",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "indecisiveness.webp",
+  "main_value": 3,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Pity",
+  "color": "Black",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 6 if there are two or more blue and/or red moods.",
+  "artist": "Aurore Folny",
+  "edition": "Edition 1",
+  "card_number": "0072",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "pity.webp",
+  "main_value": 3,
+  "secondary_value": 6
+},
+
+{
+  "card_name": "Envy",
+  "color": "Black",
+  "rarity": "Rare",
+  "card_effect": "To play this card — Put one of your moods into the discard pile. (If you can’t do that, you can’t play this card. Moods are cards in play.) While in play — This mood’s value increases by 2 for each mood your moodiest opponent has.",
+  "artist": "Magali Villeneuve",
+  "edition": "Edition 1",
+  "card_number": "0064",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "envy.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Bravado",
+  "color": "Red",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may put one of your other moods into the discard pile (moods are cards in play). If you do, you may play an additional mood this turn.",
+  "artist": "David Semple",
+  "edition": "Edition 1",
+  "card_number": "0084",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "bravado.webp",
+  "main_value": 3,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Superiority",
+  "color": "Black",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 7 if you have more moods than each other player. (Moods are cards in play.)",
+  "artist": "James Ryman",
+  "edition": "Edition 1",
+  "card_number": "0077",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "superiority.webp",
+  "main_value": 3,
+  "secondary_value": 7
+},
+
+{
+  "card_name": "Regret",
+  "color": "Blue",
+  "rarity": "Rare",
+  "card_effect": "To play this card — Put two of your moods into your hand. (If you can’t do that, you can’t play this card.) After playing this mood — Put an opponent’s mood into your hand.",
+  "artist": "David Seguin",
+  "edition": "Edition 1",
+  "card_number": "0050",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "regret.webp",
+  "main_value": 4,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Ambition",
+  "color": "Black",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may discard a card from your hand. If you do, you may play an additional mood this turn.",
+  "artist": "Volkan Baga",
+  "edition": "Edition 1",
+  "card_number": "0053",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "ambition.webp",
+  "main_value": 2,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Cynicism",
+  "color": "Black",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may put a card from the discard pile into an opponent’s hand. If you do, this mood’s value becomes 6.",
+  "artist": "Greg Staples",
+  "edition": "Edition 1",
+  "card_number": "0062",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "cynicism.webp",
+  "main_value": 3,
+  "secondary_value": 6
+},
+
+{
+  "card_name": "Betrayal",
+  "color": "Black",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — Give one of your moods to another player. After scoring, that mood becomes yours again (if it’s still in play).",
+  "artist": "Miliyo Čeran",
+  "edition": "Edition 1",
+  "card_number": "0056",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "betrayal.webp",
+  "main_value": 6,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Arrogance",
+  "color": "Red",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may choose an opponent. If you do, they choose one of their white or blue moods and it becomes yours. After this mood is no longer in play, give the mood you took back to them (if you still have it).",
+  "artist": "Livia Prima",
+  "edition": "1",
+  "card_number": "0082",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "arrogance.webp"
+},
+
+{
+  "card_name": "Anger",
+  "color": "Red",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may put any number of moods with total value 5 or less into the discard pile.",
+  "artist": "Svetlin Velinov",
+  "edition": "1",
+  "card_number": "0080",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "anger.webp"
+},
+
+{
+  "card_name": "Sadness",
+  "color": "Black",
+  "rarity": "Mythic",
+  "card_effect": "While in play — This mood's value increases by 2 for each card in the discard pile.",
+  "artist": "Julie Dillon",
+  "edition": "1",
+  "card_number": "0074",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "sadness.webp"
+},
+
+{
+  "card_name": "Condescension",
+  "color": "Black",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may give a card from your hand to another player. If you do, this mood's value becomes 6.",
+  "artist": "Steve Prescott",
+  "edition": "1",
+  "card_number": "0058",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 6,
+  "image_path": "condescension.webp"
+},
+
+{
+  "card_name": "Honor",
+  "color": "White",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — Choose a player.\nWhile in play — The chosen player goes first each round regardless of who won the previous round. (This doesn't change who draws a card.)",
+  "artist": "Steven Beledin",
+  "edition": "1",
+  "card_number": "0015",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": null,
+  "image_path": "honor.webp"
+},
+
+{
+  "card_name": "Conviction",
+  "color": "White",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — Choose a mood. Its player puts it on the bottom of the deck and draws a card.",
+  "artist": "Aaron Miller",
+  "edition": "1",
+  "card_number": "0006",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "conviction.webp"
+},
+
+{
+  "card_name": "Pacifism",
+  "color": "White",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — Choose up to two players. For each chosen player, suppress one of their moods. It remains suppressed for as long as you have this mood. (While suppressed, that mood has a value of 0. Turn it sideways to keep track.)",
+  "artist": "Jesper Eising",
+  "edition": "1",
+  "card_number": "0020",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 1,
+  "secondary_value": null,
+  "image_path": "pacifism.webp"
+},
+
+{
+  "card_name": "Doubt",
+  "color": "Blue",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may reveal any number of cards from your hand and put them on the bottom of the deck, then draw that many cards. During the next round, players can't play moods that share a color with any of the revealed cards.",
+  "artist": "Karl Kopinski",
+  "edition": "1",
+  "card_number": "0036",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "doubt.webp"
+},
+
+{
+  "card_name": "Validation",
+  "color": "White",
+  "rarity": "Mythic",
+  "card_effect": "After playing this mood — You may play an additional mood this turn. While in play — Each time you play another mood with a 0 or 1 in its top right corner, you may play an additional mood this turn.",
+  "artist": "D. Alexander Gregory",
+  "edition": "1",
+  "card_number": "0026",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 1,
+  "secondary_value": null,
+  "image_path": "validation.webp"
+},
+
+{
+  "card_name": "Patience",
+  "color": "White",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood's value is 1 if you played it this round.",
+  "artist": "Johannes Voss",
+  "edition": "1",
+  "card_number": "0021",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 5,
+  "secondary_value": 1,
+  "image_path": "patience.webp"
+},
+
+{
+  "card_name": "Guilt",
+  "color": "White",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may choose one: • Suppress a black or red mood. It remains suppressed for as long as you have this mood. (While suppressed, that mood has a value of 0. Turn it sideways to keep track.) • Suppress all black and red moods. Those moods remain suppressed for as long as you have this mood.",
+  "artist": "John Stanko",
+  "edition": "1",
+  "card_number": "0014",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "guilt.webp"
+},
+
+{
+  "card_name": "Dignity",
+  "color": "White",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may discard a card from your hand with a 0, 1, 2, or 3 in its top right corner. If you do, this mood's value becomes 5.",
+  "artist": "Magali Villeneuve",
+  "edition": "1",
+  "card_number": "0008",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 5,
+  "image_path": "dignity.webp"
+},
+
+{
+  "card_name": "Scorn",
+  "color": "White",
+  "rarity": "Mythic",
+  "card_effect": "After playing this mood — Suppress any mood. It remains suppressed until the end of this round. (While suppressed, that mood has a value of 0. Turn it sideways to keep track.) While in play — Each time you play another mood, you may suppress a mood that shares a color with the mood you played. It remains suppressed until the end of this round.",
+  "artist": "Eric Deschamps",
+  "edition": "1",
+  "card_number": "0024",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "scorn.webp"
+},
+
+{
+  "card_name": "Encouragement",
+  "color": "White",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may choose a mood with dice in its lower left corner. While in play — The chosen mood uses the dice total in its top right corner or lower left corner, whichever is higher, to determine its value.",
+  "artist": "Mike Burns",
+  "edition": "1",
+  "card_number": "0011",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": null,
+  "image_path": "encouragement.webp"
+},
+
+{
+  "card_name": "Repentance",
+  "color": "White",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may choose a number. If you do, suppress all other moods with the chosen value. They remain suppressed until the end of this round. (While suppressed, those moods have a value of 0. Turn them sideways to keep track.)",
+  "artist": "Daarken",
+  "edition": "1",
+  "card_number": "0023",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "repentance.webp",
+  "main_value": 2,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Duplicity",
+  "color": "Blue",
+  "rarity": "Mythic",
+  "card_effect": "After playing this mood — You may play an additional mood this turn.While in play — Each time you play another mood, you may have that mood’s “After playing this mood” effect happen an additional time.(If that effect involves a choice, different choices can be made each time.)",
+  "artist": "Daarken",
+  "edition": "1",
+  "card_number": "0037",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "duplicity.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Kindness",
+  "color": "White",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may play an additional mood this turn if it has a 1, 3, or 5 in its top right corner.",
+  "artist": "Jakub Kasper",
+  "edition": "1",
+  "card_number": "0017",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "kindness.webp",
+  "main_value": 2,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Curiosity",
+  "color": "Blue",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may choose a player. If you do, that player reveals a random card from their hand. If the revealed card shares a color with any mood, this mood’s value becomes 6.",
+  "artist": "Steve Prescott",
+  "edition": "1",
+  "card_number": "0033",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "curiosity.webp",
+  "main_value": 3,
+  "secondary_value": 6
+},
+
+{
+  "card_name": "Fear",
+  "color": "Blue",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may put another one of your moods into your hand. You may play an additional mood this turn.",
+  "artist": "Jesper Eising",
+  "edition": "1",
+  "card_number": "0038",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "fear.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Discipline",
+  "color": "White",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 3 if there are two or more black and/or red moods.",
+  "artist": "Daren Bader",
+  "edition": "1",
+  "card_number": "0009",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "discipline.webp",
+  "main_value": 6,
+  "secondary_value": 3
+},
+
+{
+  "card_name": "Creativity",
+  "color": "Blue",
+  "rarity": "Rare",
+  "card_effect": "You may play this card as a copy of any mood. (Treat this mood as if it were an exact copy of that printed card, including dice, color, and abilities. The copied traits last for as long as this mood is in play.)",
+  "artist": "Willian Murai",
+  "edition": "1",
+  "card_number": "0032",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "creativity.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Hesitation",
+  "color": "Blue",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may choose one: • Put a red or green mood into its player’s hand. • Put all red and green moods into their players’ hands.",
+  "artist": "Brian Despain",
+  "edition": "1",
+  "card_number": "0041",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "hesitation.webp",
+  "main_value": 2,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Disillusionment",
+  "color": "White",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — Starting with the next player in turn order, each player may choose a color. Put each other mood that shares one of those colors into the discard pile.",
+  "artist": "Mark Tedin",
+  "edition": "1",
+  "card_number": "0010",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "disillusionment.webp",
+  "main_value": 2,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Idealism",
+  "color": "White",
+  "rarity": "Mythic",
+  "card_effect": "After playing this mood — You may play an additional mood this turn. While in play — For each of your moods with dice in its lower left corner, use the dice total in its top right corner or lower left corner, whichever is higher, to determine its value.",
+  "artist": "Willian Murai",
+  "edition": "1",
+  "card_number": "0016",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "idealism.webp",
+  "main_value": 0,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Meekness",
+  "color": "White",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — Suppress all moods with a value of 5 or more. Those moods remain suppressed for as long as you have this mood. (While suppressed, those moods have a value of 0. Turn them sideways to keep track.)",
+  "artist": "Fiona Hsieh",
+  "edition": "1",
+  "card_number": "0019",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "meekness.webp",
+  "main_value": 1,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Faith",
+  "color": "White",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may discard a green or blue card from your hand. If you do, suppress any mood. It remains suppressed for as long as you have this mood. (While suppressed, that mood has a value of 0. Turn it sideways to keep track.)",
+  "artist": "Steve Argyle",
+  "edition": "1",
+  "card_number": "0012",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "faith.webp",
+  "main_value": 3,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Complacency",
+  "color": "White",
+  "rarity": "Common",
+  "card_effect": null,
+  "artist": "Kai Carpenter",
+  "edition": "1",
+  "card_number": "0005",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "complacency.webp",
+  "main_value": 4,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Shame",
+  "color": "White",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may discard a card from your hand. If you do, suppress all other moods that share a color with the discarded card. Those moods remain suppressed for as long as you have this mood. (While suppressed, those moods have a value of 0. Turn them sideways to keep track.)",
+  "artist": "Zoltan Boros",
+  "edition": "1",
+  "card_number": "0025",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "shame.webp",
+  "main_value": 3,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Ambivalence",
+  "color": "Blue",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood's value is 3 if there are two or more red and/or green moods.",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "edition": "Edition 1",
+  "card_number": "0027",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 6,
+  "secondary_value": 3,
+  "image_path": "ambivalence.webp"
+},
+
+{
+  "card_name": "Friendliness",
+  "color": "White",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may play an additional mood this turn if it has a 0, 2, 4, or 6 in its top right corner.",
+  "artist": "Caroline Gariba",
+  "edition": "Edition 1",
+  "card_number": "0013",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "friendliness.webp"
+},
+
+{
+  "card_name": "Courage",
+  "color": "White",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — Choose up to two players. For each chosen player, put one of their moods with a value of ⎲ or more into the discard pile.",
+  "artist": "Zara Alfonso",
+  "edition": "Edition 1",
+  "card_number": "0007",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 1,
+  "secondary_value": null,
+  "image_path": "courage.webp"
+},
+
+{
+  "card_name": "Loyalty",
+  "color": "White",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood's value is 6 if there are two or more green and/or blue moods.",
+  "artist": "Bryan Sola",
+  "edition": "Edition 1",
+  "card_number": "0018",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": 6,
+  "image_path": "loyalty.webp"
+},
+
+{
+  "card_name": "Denial",
+  "color": "Blue",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may choose two other moods. If the two chosen moods share a color or have the same value, put them into their players’ hands.",
+  "artist": "Zack Stella",
+  "edition": "Edition 1",
+  "card_number": "0034",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 1,
+  "secondary_value": null,
+  "image_path": "denial.webp"
+},
+
+{
+  "card_name": "Fickleness",
+  "color": "Blue",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — Calculate the most common color or colors among all moods. Put all moods other than this one that share one of those colors into their players' hands.",
+  "artist": "Tomek Larek",
+  "edition": "Edition 1",
+  "card_number": "0039",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "fickleness.webp"
+},
+
+{
+  "card_name": "Avoidance",
+  "color": "Blue",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — Choose left or right. Each player chooses one of their moods and gives it to the next player in the chosen direction. (Moods are cards in play.)",
+  "artist": "Yangtian Li",
+  "edition": "Edition 1",
+  "card_number": "0029",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": null,
+  "image_path": "avoidance.webp"
+},
+
+{
+  "card_name": "Disorientation",
+  "color": "Blue",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may choose a number. If you do, put all other moods with the chosen value into their players’ hands.",
+  "artist": "Alex Horley–Orlandelli",
+  "edition": "Edition 1",
+  "card_number": "0035",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "disorientation.webp"
+},
+
+{
+  "card_name": "Guile",
+  "color": "Blue",
+  "rarity": "Mythic",
+  "card_effect": "To play this card — Discard two cards from your hand. (If you can't do that, you can't play this card.) After playing this mood — Choose one of your opponents' moods. It becomes yours.",
+  "artist": "Eric Deschamps",
+  "edition": "Edition 1",
+  "card_number": "0040",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 0,
+  "secondary_value": null,
+  "image_path": "guile.webp"
+},
+
+{
+  "card_name": "Imagination",
+  "color": "Blue",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — Choose a color. While in play — All moods are the chosen color and no other colors.",
+  "artist": "Olena Richards",
+  "edition": "Edition 1",
+  "card_number": "0042",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 3,
+  "secondary_value": null,
+  "image_path": "imagination.webp"
+},
+
+{
+  "card_name": "Confusion",
+  "color": "Blue",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — Choose left or right. Each player chooses a card from their hand and gives it to the next player in the chosen direction.",
+  "artist": "Wylie Beckert",
+  "edition": "Edition 1",
+  "card_number": "0031",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 4,
+  "secondary_value": null,
+  "image_path": "confusion.webp"
+},
+
+{
+  "card_name": "Bashfulness",
+  "color": "Blue",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — After scoring this round, if you won the round, put this mood on the bottom of the deck and draw a card.",
+  "artist": "Howard Lyon",
+  "edition": "Edition 1",
+  "card_number": "0030",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 6,
+  "secondary_value": null,
+  "image_path": "bashfulness.webp"
+},
+
+{
+  "card_name": "Anxiety",
+  "color": "Blue",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — Choose up to two players. For each chosen player, put one of their moods with an odd value into their hand.",
+  "artist": "Matt Stewart",
+  "edition": "Edition 1",
+  "card_number": "0028",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 2,
+  "secondary_value": null,
+  "image_path": "anxiety.webp"
+},
+
+{
+  "card_name": "Pride",
+  "color": "White",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — You may choose a player with more moods than you (moods are cards in play). If you do, you may keep playing additional moods this turn until you have as many moods as the chosen player.",
+  "artist": "Richard Whitters",
+  "edition": "Edition 1",
+  "card_number": "0022",
+  "copyright": "2026 Wizards of the Coast",
+  "main_value": 1,
+  "secondary_value": null,
+  "image_path": "pride.webp"
+},
+
+{
+  "card_name": "Charity",
+  "color": "White",
+  "rarity": "Common",
+  "card_effect": "After playing this mood — You may play an additional mood this turn.",
+  "artist": "Steve Prescott",
+  "edition": "1",
+  "card_number": "0003",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "charity.webp",
+  "main_value": 1,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Benevolence",
+  "color": "White",
+  "rarity": "Uncommon",
+  "card_effect": "After playing this mood — You may play an additional mood this turn if it doesn’t share a color with any of your moods.",
+  "artist": "Magali Villeneuve",
+  "edition": "1",
+  "card_number": "0002",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "benevolence.webp",
+  "main_value": 2,
+  "secondary_value": null
+},
+
+{
+  "card_name": "Chivalry",
+  "color": "White",
+  "rarity": "Common",
+  "card_effect": "While in play — This mood’s value is 5 if you didn’t go first this round.",
+  "artist": "Eric Deschamps",
+  "edition": "1",
+  "card_number": "0004",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "chivalry.webp",
+  "main_value": 3,
+  "secondary_value": 5
+},
+
+{
+  "card_name": "Altruism",
+  "color": "White",
+  "rarity": "Rare",
+  "card_effect": "After playing this mood — If the discard pile has at least one card in it, this mood’s value becomes 7. Then starting with the next player in turn order, each player takes a random card from the discard pile and puts it into their hand. Put the rest of the discard pile onto the bottom of the deck in a random order.",
+  "artist": "Howard Lyon",
+  "edition": "1",
+  "card_number": "0001",
+  "copyright": "2026 Wizards of the Coast",
+  "image_path": "altruism.webp",
+  "main_value": 3,
+  "secondary_value": 7
+}
+]
