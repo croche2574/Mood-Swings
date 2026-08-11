@@ -1,0 +1,8 @@
+{
+  "dev": {
+    "run": "bun run dev"
+  },
+  "server": "https://spacetime.rochelab.dev",
+  "module-path": "./spacetimedb",
+  "database": "mood-server-db"
+}
